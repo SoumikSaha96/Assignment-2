@@ -126,4 +126,7 @@
                     display: flex;
                     justify-content: center;
                 }
+                #smalltext{
+                    font-size: 14px;
+                }
                
