@@ -129,4 +129,15 @@
                 #smalltext{
                     font-size: 14px;
                 }
+
+                /* Media queries */
+                /* Mobile Devices */
+                @media only screen and (max-width: 688px){
+                       .top-bar{
+                        margin: 0;
+                        padding: 0;
+                        flex-direction: column;
+                        width: 100%;
+                    }
+                }
                
